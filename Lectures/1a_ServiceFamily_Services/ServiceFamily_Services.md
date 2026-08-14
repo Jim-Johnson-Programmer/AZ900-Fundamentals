@@ -42,3 +42,18 @@ Azure services are often grouped into service families so you can understand wha
 
 - Learn the purpose of each major Azure service family.
 - Distinguish broad categories such as compute, storage, networking, identity, and management.
+
+### Azure Management Groups
+
+If your company has a lot of subscriptions, you will need a way to keep track of access, regulations, and compliance for all of them. Over and above subscriptions, Azure management groups provide a level of scope. Subscriptions are organized into containers called management groups, and the management groups are subject to your governance rules. All subscribers within a management group automatically inherit the management group's conditions. Azure Services In Azure, there are a variety of services and capabilities to choose from.
+
+The following are the most often-used categories:
+
+- Compute
+  Networking
+  Storage
+  Data Analytics
+  Databases
+  Web and Mobile
+  Security and Identity
+  Mon
